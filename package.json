@@ -1,0 +1,22 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "this is my sample project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ankitsingh(ankitsingh.2312@gmail.com)"
+  },
+  "keywords": [
+    "sample1"
+  ],
+  "author": "ankit singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
